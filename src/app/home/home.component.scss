@@ -1,0 +1,20 @@
+img{
+  overflow: hidden;
+}
+
+.main{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel{
+  width: 100%;
+}
+.carousel-item{
+  height: 60vh;
+  overflow: hidden;
+}

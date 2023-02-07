@@ -1,0 +1,28 @@
+.part1{
+  background-color: red;
+  width: 300px;
+  height: 50vh;
+}
+.part2{
+  background-color: rgb(157, 255, 0);
+  width: 300px;
+  height: auto;
+
+}
+.part3{
+  background-color: rgb(26, 55, 171);
+  width: 300px;
+  height: auto;
+
+}
+.part4{
+  background-color: rgb(255, 0, 217);
+  width: 300px;
+  height: auto;
+}
+
+.container{
+display: flex;
+background-color: black;
+padding: 20px;
+}

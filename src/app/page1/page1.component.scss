@@ -1,0 +1,15 @@
+img{
+  overflow: hidden;
+}
+
+.main{
+  display: flex;
+}
+
+.carousel{
+  width: 60%;
+}
+.carousel-item{
+  height: 60vh;
+  overflow: hidden;
+}
