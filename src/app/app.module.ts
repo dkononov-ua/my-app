@@ -7,6 +7,9 @@ import { HomeComponent } from './home/home.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { Page1Component } from './page1/page1.component';
 import { Page2Component } from './page2/page2.component';
+import { RegistrationComponent } from './registration/registration.component';
+import { TenantComponent } from './tenant/tenant.component';
+import { LessorComponent } from './lessor/lessor.component';
 
 @NgModule({
   declarations: [
@@ -14,6 +17,9 @@ import { Page2Component } from './page2/page2.component';
     HomeComponent,
     Page1Component,
     Page2Component,
+    RegistrationComponent,
+    TenantComponent,
+    LessorComponent,
   ],
   imports: [
     BrowserModule,
