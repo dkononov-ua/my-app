@@ -7,6 +7,14 @@
   flex-wrap: wrap;
 }
 
-
   overflow: hidden;
+  object-fit: cover;
+}
+
+.list-group {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
 }
