@@ -10,6 +10,7 @@ import { Page2Component } from './page2/page2.component';
 import { RegistrationComponent } from './registration/registration.component';
 import { TenantComponent } from './tenant/tenant.component';
 import { LessorComponent } from './lessor/lessor.component';
+import { UtilityPaymentsComponent } from './utility-payments/utility-payments.component';
 
 @NgModule({
   declarations: [
@@ -20,6 +21,7 @@ import { LessorComponent } from './lessor/lessor.component';
     RegistrationComponent,
     TenantComponent,
     LessorComponent,
+    UtilityPaymentsComponent,
   ],
   imports: [
     BrowserModule,

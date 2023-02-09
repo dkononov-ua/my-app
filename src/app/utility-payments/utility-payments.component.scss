@@ -1,0 +1,32 @@
+.utility-payments-container {
+  display: flex;
+}
+
+.card {
+  margin: 10px;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-content: stretch;
+  align-items: baseline;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.card-link {
+  display: flex;
+  width: 200px;
+  height: 40px;
+  background-color: aquamarine;
+  border: 2px;
+  border-style: groove;
+  border-radius: 8px;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  overflow: hidden;
+}
