@@ -7,6 +7,7 @@ import { HomeComponent } from './home/home.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { Page1Component } from './page1/page1.component';
 import { Page2Component } from './page2/page2.component';
+
 import { UtilityPaymentsComponent } from './utility-payments/utility-payments.component';
 
 @NgModule({
@@ -15,6 +16,7 @@ import { UtilityPaymentsComponent } from './utility-payments/utility-payments.co
     HomeComponent,
     Page1Component,
     Page2Component,
+
     UtilityPaymentsComponent,
   ],
   imports: [

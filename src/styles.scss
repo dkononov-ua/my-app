@@ -1,7 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 
 /* Importing Bootstrap SCSS file. */
-@import 'bootstrap/scss/bootstrap';
+
 * {
   box-sizing: border-box;
 }
@@ -15,7 +15,6 @@ body {
 
 a {
   text-decoration: none;
-  color: black;
 }
 
 button {
@@ -71,7 +70,6 @@ nav {
     border-radius: 7px;
     transition: padding 0.25s;
 
-
     &:hover {
       background-color: lightcoral;
       padding-left: 1em;
@@ -83,3 +81,5 @@ nav {
   margin-top: 1em;
   margin-bottom: 1em;
 }
+
+/* Importing Bootstrap SCSS file. */
